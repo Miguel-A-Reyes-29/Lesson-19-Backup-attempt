@@ -1,7 +1,7 @@
 // pokemon.c
 // CS210 Lesson 19 - Structs Introduction
 //
-// Documentation: REPLACE with your documentation statement, or "None"
+// Documentation: "Lt Col Heruska helped me with some logic on test-lab in class, additionally, i had chat check over my errors and give feedback, but all code was done by hand. Chat also naviaged me thorugh a git error. Here is the link: https://chatgpt.com/share/6ac2b487-d920-83e8-8992-91cf3ff24ddc"
 //   (see README "Documentation statement": covers GenAI, internet
 //   sources, and help from any person; keep it on the line above)
 //
