@@ -1,0 +1,6 @@
+pokedex_num: 25
+hp: 35
+attack: 55
+defense: 40
+catch_rate: 0.255
+type: ELECTRIC

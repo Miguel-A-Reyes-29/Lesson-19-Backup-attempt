@@ -1,0 +1,2 @@
+# Sample 1: build a single pokemon
+create 25 35 55 40 0.255 ELECTRIC

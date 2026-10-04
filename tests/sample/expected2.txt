@@ -1,0 +1,12 @@
+pokedex_num: 4
+hp: 39
+attack: 52
+defense: 43
+catch_rate: 0.180
+type: FIRE
+pokedex_num: 7
+hp: 44
+attack: 48
+defense: 65
+catch_rate: 0.180
+type: WATER

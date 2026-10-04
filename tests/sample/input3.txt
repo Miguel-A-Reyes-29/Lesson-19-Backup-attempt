@@ -1,0 +1,3 @@
+# Sample 3: heal, exercises set_hp
+heal 1 45 49 49 0.180 GRASS 100
+heal 150 106 110 90 0.001 PSYCHIC 50
